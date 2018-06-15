@@ -1,0 +1,12 @@
+cd\Users\Lenovo\Documents\UTM Academic\completed projects in utm (yap)\cinema ticket booking system (Java, object oriented programming)
+
+javaexec
+
+javac CLS.java
+javac Combo.java
+javac Customer.java
+javac Member.java
+javac Price.java
+javac Test.java
+javac Cinema.java
+java Cinema
